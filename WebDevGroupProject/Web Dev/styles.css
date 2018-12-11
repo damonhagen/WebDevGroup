@@ -1,74 +1,73 @@
 *{
-    margin:0;
-    padding:0;
-    
+  margin:0;
+  padding:0;
+  
 }
 /* index and template CSS*/
 
 .subHeadingBox {   
-    text-align: center;
-    height:30px;
-    background-color:rgba(0, 0, 0, 0.774); 
-    color:rgb(206, 206, 206);
-    font-family: 'Ubuntu', sans-serif;
-    font-size: 1.25em;
+  text-align: center;
+  height:30px;
+  background-color:rgba(0, 0, 0, 0.774); 
+  color:rgb(206, 206, 206);
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.25em;
 }
 
 .headingBox {  
-    background-image: url("mixingBoard.jpg");
-    background-position: center;
-    background-size: cover;
-    color: white;  
-    text-align: right;
-    font-family: 'Ubuntu', sans-serif;    
-    height: 4%;
-    font-size: 1.25em;
-              
-
+  background-image: url("mixingBoard.jpg");
+  background-position: center;
+  background-size: cover;
+  color: white;  
+  text-align: right;
+  font-family: 'Ubuntu', sans-serif;    
+  height: 4%;
+  font-size: 1.25em;
 }
+  
 .headingBox img{
-    height:75px;
+  height:75px;
 }
 
 .menu {
-    position: fixed;
-    text-align: left;
-    width:100%;
-    font-family: 'Ubuntu', sans-serif;
-    bottom: 0;
-    background-color:rgba(0, 0, 0, 0.774);   
-    color:rgb(206, 206, 206);
-   
+  position: fixed;
+  text-align: left;
+  width:100%;
+  font-family: 'Ubuntu', sans-serif;
+  bottom: 0;
+  background-color:rgba(0, 0, 0, 0.774);   
+  color:rgb(206, 206, 206);
+
 }
 
 body {    
-    background-color: rgb(128, 128, 128);
+  background-color: rgb(128, 128, 128);
 }
 
 .splashBoxIndex {
-    font-family: 'Ubuntu', sans-serif;
-    color:rgb(206, 206, 206);
-    padding-top:5%;
-    padding-left:5%;
-    background-color:rgba(0, 0, 0, 0.514);
+  font-family: 'Ubuntu', sans-serif;
+  color:rgb(206, 206, 206);
+  padding-top:5%;
+  padding-left:5%;
+  background-color:rgba(0, 0, 0, 0.514);
 }
 
 .splashBoxIndex img{
-    width:40%;     
+  width:40%;     
 }
 
 .bodyBoxIndex {
-    padding-top:5%;
-    padding-left:5%;
-    padding-bottom: 5%;
-    background-color:rgba(0, 0, 0, 0.363);
-    font-family: 'Ubuntu', sans-serif;
-    color:rgb(206, 206, 206);   
+  padding-top:5%;
+  padding-left:5%;
+  padding-bottom: 5%;
+  background-color:rgba(0, 0, 0, 0.363);
+  font-family: 'Ubuntu', sans-serif;
+  color:rgb(206, 206, 206);   
 
 }
 
 .bodyBoxIndex img {
-    width:40%;
+  width:40%;
 
 }
 
@@ -83,15 +82,35 @@ body {
 
 /*Page3 CSS*/
 
-
-
+.soundsText {   
+  text-align: left;
+  padding-left:9%;
+  padding-right:9%;
+  
+  background-color:rgba(0, 0, 0, 0.774); 
+  color:rgb(206, 206, 206);
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.25em;
+}
+.mp3titleFont {
+  color: teal;
+  font-size: 0.95em;
+  text-align: center;
+}
 
 
 /*Page4 CSS*/
 
-
-
-
+.productionText {   
+  text-align: left;
+  padding-left:9%;
+  padding-right:9%;
+  
+  background-color:rgba(0, 0, 0, 0.774); 
+  color:rgb(206, 206, 206);
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.25em;
+}
 
 
 /*Page5 CSS*/
