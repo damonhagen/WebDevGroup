@@ -1,0 +1,167 @@
+*{
+    margin:0;
+    padding:0;
+    
+}
+/* index and template CSS*/
+
+.subHeadingBox {   
+    text-align: center;
+    height:30px;
+    background-color:rgba(0, 0, 0, 0.774); 
+    color:rgb(206, 206, 206);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.25em;
+}
+
+.headingBox {  
+    background-image: url("mixingBoard.jpg");
+    background-position: center;
+    background-size: cover;
+    color: white;  
+    text-align: right;
+    font-family: 'Ubuntu', sans-serif;    
+    height: 4%;
+    font-size: 1.25em;
+              
+
+}
+.headingBox img{
+    height:75px;
+}
+
+.menu {
+    position: fixed;
+    text-align: left;
+    width:100%;
+    font-family: 'Ubuntu', sans-serif;
+    bottom: 0;
+    background-color:rgba(0, 0, 0, 0.774);   
+    color:rgb(206, 206, 206);
+   
+}
+
+body {    
+    background-color: rgb(128, 128, 128);
+}
+
+.splashBoxIndex {
+    font-family: 'Ubuntu', sans-serif;
+    color:rgb(206, 206, 206);
+    padding-top:5%;
+    padding-left:5%;
+    background-color:rgba(0, 0, 0, 0.514);
+}
+
+.splashBoxIndex img{
+    width:40%;     
+}
+
+.bodyBoxIndex {
+    padding-top:5%;
+    padding-left:5%;
+    padding-bottom: 5%;
+    background-color:rgba(0, 0, 0, 0.363);
+    font-family: 'Ubuntu', sans-serif;
+    color:rgb(206, 206, 206);   
+
+}
+
+.bodyBoxIndex img {
+    width:40%;
+
+}
+
+
+/* Page2 CSS */
+
+.subHeadingBox video{
+    width: 25%;
+    margin-right: 75%;
+    margin-top: 1%;
+    
+
+
+}
+
+.subHeadingBox h5 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.subHeadingBox h4 {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: Left;
+}
+
+.subHeadingBox h3 {
+    text-align: left;
+    font-family: 'Ubuntu', sans-serif;
+
+
+}
+
+
+.secvid h4 {
+   float: right; 
+   display: block;
+   margin-top: -300px;
+   font-family: 'Ubuntu', sans-serif;
+    
+}
+
+
+.secvid video {
+    float: right;
+    margin-right: 1%;
+    margin-top: -280px;
+}
+
+.third h1, p {
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+section {
+    background-color:rgba(0, 0, 0, 0.774);   
+    
+}
+.seq {
+    height:1100%;
+    width:40%;
+}
+
+p {
+  font-family:  'Ubuntu', sans-serif;
+}
+
+.two h1, p {
+  font-family:  'Ubuntu', sans-serif;
+
+}
+
+
+
+
+/*Page3 CSS*/
+
+
+
+
+
+/*Page4 CSS*/
+
+
+
+
+
+
+/*Page5 CSS*/
+
+
+
+
+
+
+
+
+/* Page6 CSS*/
