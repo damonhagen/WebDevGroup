@@ -183,18 +183,27 @@ p {
   text-align: center;
 }
 
+.soundsAndExamplesText {
+  color:rgb(206, 206, 206);
+  font-family: 'Ubuntu', sans-serif;  
+}
+
 
 /*Page4 CSS*/
 
 .productionText {   
   text-align: left;
   padding-left:9%;
-  padding-right:9%;
-  
+  padding-right:9%;  
   background-color:rgba(0, 0, 0, 0.774); 
   color:rgb(206, 206, 206);
   font-family: 'Ubuntu', sans-serif;
   font-size: 1.25em;
+}
+
+.musicProductionWithCausticText {
+  color:rgb(206, 206, 206);
+  font-family: 'Ubuntu', sans-serif;
 }
 
 
