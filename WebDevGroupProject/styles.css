@@ -269,3 +269,120 @@ height:100%;
 
 
 /* Page6 CSS*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+form input, form textarea {
+  background: transparent;
+  border: 0;
+  border-bottom: 2px solid white;
+  padding: 5px;
+  width: 100%;
+  color: white;
+  outline: none;
+}
+.fname h4{
+  line-height: 1.5em;
+  text-align:center;
+  color: white;
+  padding:1%;
+}
+form input[type="submit"] {
+  display: block;
+  width: auto;
+  margin: 10px auto;
+  padding: 5px 10px;
+  border: 3px solid white;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+}
+.container {
+    border-radius: 10px;
+    background-color: rgba(51, 51, 51, 0.425);
+    padding: 20px;
+    width:60%;
+    height:80%;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top:5%;
+    margin-left:20%;
+}
+.container h1{
+  text-align: center;
+  color:white;
+}
+
+.bio img{
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+  width: 25%;
+  margin-left:auto;
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+.paragraph{
+  
+  position: relative;
+  width: 60%;
+  height:auto;
+  margin-left:50%;
+  transform: translate(-50%);
+  background-color: teal;
+  display: inline-block;
+  padding: 2%;
+  border: solid 3px;
+  border-radius: 55px;
+  border-color: rgba(0, 0, 0, 0);
+  line-height: 1.5;
+}
+.paragraph h1{
+  text-align: center;
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 40px;
+}
+.paragraph p{
+  padding:5%;
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  font-size: 20px;
+}
+.divImg{
+  background-image:url(myback.jpg);
+  background-size: cover;
+  width:100%;
+  background-repeat: no-repeat;
+}
+.block{
+  background-color: teal;
+  width:16%;
+  padding-left: 4.5%;
+  color:white;
+  margin-left:83%; 
+  margin-top:2%;
+  border-radius:7%;
+  padding-top: 2%;
+  font-family: 'Ubuntu', sans-serif;
+}
+.block-content{
+  padding-top: 1%;
+}
+.appStoreButton {
+  display: inline-block;
+  border-radius: 5px;
+  background: #666 url('http://www.singlecellsoftware.com/sites/all/themes/atdark/css/images/app-stores.png') no-repeat;
+  background-position: 50% 5px;
+  width: 132px;
+  height: 42px;
+  margin-right: 82%;
+  z-index: 2;
+  }
+  
+  .appStoreButton-googleplay {
+  background-position: 50% -55px;
+  margin-right: 82%;
+  }
