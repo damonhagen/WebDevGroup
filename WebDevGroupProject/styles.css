@@ -199,6 +199,67 @@ p {
 
 
 /*Page5 CSS*/
+.why1{
+
+background-image: url(https://cdn6.aptoide.com/imgs/7/5/4/754599940099126d1d0c01999992ed4c_screen.png?h=464);
+
+width: 40%;
+
+color: white;
+
+border-radius: 15%;
+
+margin:auto;
+
+margin-top:5%;
+
+}
+
+.why2{
+
+padding-left: 4%;
+
+
+}
+
+.why3{
+
+font-size:40px;
+
+}
+
+li{
+
+font-size:20px;
+
+}
+
+.why img{
+
+width:40%;
+
+margin-left:30%;
+
+margin-top: 3%;
+
+
+
+
+}
+
+.back{
+
+background-image:url(http://www.musicalandroid.com/uploads/1/2/4/3/12437050/5191299_orig.jpg);
+
+background-repeat: no-repeat;
+
+background-size: cover;
+
+width:100%;
+
+height:100%;
+
+}
 
 
 
