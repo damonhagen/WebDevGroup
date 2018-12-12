@@ -94,6 +94,71 @@ body {
 
 /* Page2 CSS */
 
+.subHeadingBox video{
+    width: 25%;
+    margin-right: 75%;
+    margin-top: 1%;
+    
+
+
+}
+
+.subHeadingBox h5 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.subHeadingBox h4 {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: Left;
+}
+
+.subHeadingBox h3 {
+    text-align: left;
+    font-family: 'Ubuntu', sans-serif;
+
+
+}
+
+
+.secvid h4 {
+   float: right; 
+   display: block;
+   margin-top: -300px;
+   font-family: 'Ubuntu', sans-serif;
+    
+}
+
+
+.secvid video {
+    float: right;
+    margin-right: 1%;
+    margin-top: -280px;
+}
+
+.third h1, p {
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+section {
+    background-color:rgba(0, 0, 0, 0.774);   
+    
+}
+.seq {
+    height:1100%;
+    width:40%;
+}
+
+p {
+  font-family:  'Ubuntu', sans-serif;
+}
+
+.two h1, p {
+  font-family:  'Ubuntu', sans-serif;
+
+}
+
+
 
 
 
